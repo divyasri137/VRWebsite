@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.footersection {
+    background-color: #202b36;
+    height: 150vh;
+    background-size: cover;
+}
+
+.footer-image {
+    width: 25%;
+}
+
+.icon-container {
+    height: 80px;
+    width: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+    background-color: #19232d;
+}
+
+.icon {
+    color: #959ead;
+    font-size: 40px;
+}
+
+.address {
+    color: #959ead;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.contact-heading {
+    color: #959ead;
+    font-family: Roboto;
+    text-align: left;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.contact-details {
+    color: #959ead;
+    font-size: 28px;
+}
+
+.line {
+    border-style: solid;
+    color: #959ead;
+    border-width: 2px;
+}
+
+.footer-line {
+    color: #959ead;
+    font-size: 28px;
+}
+
+.icon1 {
+    font-size: 35px;
+    color: #959ead;
+}
